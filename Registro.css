@@ -1,0 +1,111 @@
+.body-re{
+    font-family: Arial, sans-serif;
+    background-image: url('http://localhost:3000/imagenes/Fondo-principal.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: -8px;
+    
+}
+.link-re{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;   
+    margin-top: 20px;
+    
+   
+}
+.Conte-re{
+    padding-right: 100px;
+}
+
+.nav-re{
+    padding-right: 15px;
+    
+    height: 50px;
+    background-color: #302b2b;
+    color: white;
+}
+.h2-re{
+    text-align: center;    
+    margin: 50px ;
+
+  
+}
+.Divformu-re{
+    box-sizing: border-box;
+    width: 400px ;
+    display: flex;
+    justify-content: center;
+    margin: 120px auto;
+    border-radius: 10px;
+    background-color:rgba(253, 253, 253, 0.705);
+    box-shadow: 5px 10px 10px 10px  rgba(19, 17, 17, 0.1) ;
+}
+
+.Divformu-re input{
+
+    justify-content: center;
+    border-radius: 5px;
+    border-color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 140%;
+    padding: 7px;
+  
+}
+
+.Divformu-re label{
+
+    display: flex;
+    margin-bottom: -1px;
+    justify-content: left;
+}
+
+option{
+   
+    font-size: 15px;
+    padding: 20px;
+}
+
+select {
+    
+    font-size: 15px;
+    padding: 2px;
+    width: 60%;
+}
+
+.div-option{
+    
+    margin: 4px;
+    
+}
+.div-option label{
+    margin-bottom: 10px;
+}
+
+
+#Botonid-re{
+    display: flex;
+    justify-content: center;
+}
+.boton-re{
+    
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+    background-color: aqua;
+    border-color: aqua;
+    border-width: 2px;
+    cursor:pointer;
+
+}
+
+.DivRe-a{
+    color: black;
+    text-align: center;
+    margin: 5px auto;
+    text-decoration: none;
+}

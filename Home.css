@@ -1,0 +1,43 @@
+.div-home{
+    font-family: Arial, sans-serif;
+    background-image: url('http://localhost:3000/imagenes/Fondo-principal.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: -8px;
+    
+}
+
+
+.h2-ho{
+    text-align: center;
+    margin-top: 400px;
+    background-color: aliceblue;
+    width: 1000px;
+    
+}
+.Bienvenida{
+    justify-content: center;
+    display: flex;
+
+}
+.link-ho{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;   
+    margin-top: 20px;
+    
+   
+}
+
+.nav-ho{
+    padding-right: 15px;
+    text-align: right;
+    height: 50px;
+    background-color: #302b2b;
+    color: white;
+}
+
+

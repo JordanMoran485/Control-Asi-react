@@ -1,0 +1,87 @@
+.body-ini{
+  font-family: Arial, sans-serif;
+  background-image: url('http://localhost:3000/imagenes/Fondo-principal.jpg'); 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  margin: -8px;
+  
+    
+  }
+  .link-ini{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;   
+    margin-top: 20px;
+    
+   
+  }
+  
+  .nav-ini{
+    padding-right: 15px;
+    
+    height: 50px;
+    background-color: #302b2b;
+    color: white;
+  }
+  .h2-ini{
+    text-align: center;    
+    margin: 50px ;
+  
+  
+  }
+  .Divformu-ini{
+    box-sizing: border-box;
+    width: 400px ;
+    display: flex;
+    justify-content: center;
+    margin: 170px auto;
+    border-radius: 10px;
+    background-color:rgba(253, 253, 253, 0.705);
+    box-shadow: 5px 10px 10px 10px  rgba(19, 17, 17, 0.1) ;
+  }
+  .Container{
+    padding-right: 100px;
+  }
+  #boton-id{
+    display: flex;
+    justify-content: center;
+  }
+  .boton-ini{
+    
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+    background-color: aqua;
+    border-color: aqua;
+    border-width: 2px;
+    cursor:pointer;
+  
+  }
+  
+  .DivIni-a{
+    color: black;
+    text-align: center;
+    margin: 5px auto;
+    text-decoration: none;
+  }
+  
+  .input-label-ini input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    padding: 7px;
+    width: 140%;
+    border-radius: 5px;
+    border-color: aliceblue;
+    justify-content: left;
+  }
+  
+  .input-label-ini label{
+    display: flex;
+    margin-bottom: -1px;
+    justify-content: left;
+  }
+   

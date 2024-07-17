@@ -1,0 +1,84 @@
+.link-asis{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;   
+    margin-top: 20px;
+    
+}
+
+.nav-asis{
+    height: 50px;
+    background-color: #302b2b;
+    color: white;
+}
+
+
+.Divformu-asis {
+    font-family: Arial, sans-serif;
+    margin: -8px;
+    background-color: #f7f7f7;
+    height: 100vh;
+}
+
+.h1-asis{
+    
+    text-align: center;
+}
+.h2-asis{
+    text-align: center;
+    margin: 20px auto;
+}
+
+.formu-asis {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.label-asis {
+    margin-top: 10px;
+}
+
+.input-asis {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.boton-asis {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+table {
+    
+    width: 50% ;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #66B37B;
+    color: white;
+}
